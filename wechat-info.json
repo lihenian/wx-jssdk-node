@@ -1,0 +1,124 @@
+{
+  "wechatConfig": {
+    "store": "FileStore_F:\\learn\\express-weixin\\wechat-info.json"
+  },
+  "globalToken": {
+    "count": 2,
+    "modifyDate": "2019-09-18T08:22:54.715Z",
+    "accessToken": "25_5b6IGPdjBAED2JfQil5KCCOOmwcs0wmZc-igSUonrXCvgoYRZhzbh_W1pecV80y6XJTX0OVwVL606YolaUWeKISMcFl9vCz0beuiVN4ZM07m95AbHsXOFxHKFeKCagAF8mRMTiPKYf-Fg25IQGQgADAHXH",
+    "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X90Rbd0XIgk8Zu5OQSjp-_r-PPYI_dP1SCI6xnLZGXq3Qw"
+  },
+  "urls": {
+    "localhost:8080": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "s4u47s3kv88",
+      "timestamp": "1568785229",
+      "url": "localhost:8080",
+      "signature": "e1cd399f43079fe0ecd04158e0090047ddefbc37",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "localhost:8080",
+      "createDate": "2019-09-18T05:40:29.733Z",
+      "modifyDate": "2019-09-18T05:40:29.733Z",
+      "updated": true
+    },
+    "http://xqar6r.natappfree.cc/index.html": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "ma7zygct369",
+      "timestamp": "1568785518",
+      "url": "http://xqar6r.natappfree.cc/index.html",
+      "signature": "14b9119512deaae02675d352cc8090fbb444eca9",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://xqar6r.natappfree.cc/index.html",
+      "createDate": "2019-09-18T05:45:18.149Z",
+      "modifyDate": "2019-09-18T05:45:18.149Z",
+      "updated": true
+    },
+    "http://xqar6r.natappfree.cc/index.html/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "ocubx9h4h0k",
+      "timestamp": "1568786261",
+      "url": "http://xqar6r.natappfree.cc/index.html/",
+      "signature": "f9c7babea63ab8d1a49aed7260a486919943ef7d",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://xqar6r.natappfree.cc/index.html/",
+      "createDate": "2019-09-18T05:57:41.965Z",
+      "modifyDate": "2019-09-18T05:57:41.965Z",
+      "updated": true
+    },
+    "http://localhost:8080/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "i7tqasb8ewf",
+      "timestamp": "1568789898",
+      "url": "http://localhost:8080/",
+      "signature": "8fe2593f2aca69364c795b8b9da2b95c02b45eff",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://localhost:8080/",
+      "createDate": "2019-09-18T06:58:18.053Z",
+      "modifyDate": "2019-09-18T06:58:18.053Z",
+      "updated": true
+    },
+    "http://localhost:8080/upload.html": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "ool1pb3ybzd",
+      "timestamp": "1568790944",
+      "url": "http://localhost:8080/upload.html",
+      "signature": "57698dd229b08bc61746a2e26a8c56341b401efa",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://localhost:8080/upload.html",
+      "createDate": "2019-09-18T07:15:44.843Z",
+      "modifyDate": "2019-09-18T07:15:44.843Z",
+      "updated": true
+    },
+    "http://localhost:8080/111.html/upload.html/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "b8m15rig5mu",
+      "timestamp": "1568791258",
+      "url": "http://localhost:8080/111.html/upload.html/",
+      "signature": "b47b2ece5927a7a1f0a53521799331ba0c741e86",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://localhost:8080/111.html/upload.html/",
+      "createDate": "2019-09-18T07:20:58.123Z",
+      "modifyDate": "2019-09-18T07:20:58.123Z",
+      "updated": true
+    },
+    "http://localhost:8080//upload.html/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "zheb1bvi3o9",
+      "timestamp": "1568791282",
+      "url": "http://localhost:8080//upload.html/",
+      "signature": "83d943383c71c75ea1944650a7290c7c1b9f9d35",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://localhost:8080//upload.html/",
+      "createDate": "2019-09-18T07:21:22.978Z",
+      "modifyDate": "2019-09-18T07:21:22.978Z",
+      "updated": true
+    },
+    "http://xqar6r.natappfree.cc/upload.html": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X93ADI5iwa5o8YzMwgA7_-V6OzzbBEf5WCxJJAVtF3WTqQ",
+      "nonceStr": "wuayr84f19h",
+      "timestamp": "1568791927",
+      "url": "http://xqar6r.natappfree.cc/upload.html",
+      "signature": "9f5db935b1f6f2513374f28c96a7b9e8decb3baa",
+      "accessToken": "25_QfHodpgqQMsrBKOCjLRF4N0zDB9DlgO6CL1hhaNMQ2B1YPMoqaP-XV_qALElPEOZUwOmLOBMdLHeE2ch6sJUaTBR5DtDpwDywxFQNmkH3wvFlgPs_kJhIh4VDrqaDFbfouJnRDuLoiEHSYqUBNBdAAAMYM",
+      "signatureName": "http://xqar6r.natappfree.cc/upload.html",
+      "createDate": "2019-09-18T07:32:07.459Z",
+      "modifyDate": "2019-09-18T07:32:07.459Z",
+      "updated": true
+    },
+    "http://9kw5dm.natappfree.cc/index.html/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u4dMzsZ8caXwVpY_8Up4X90Rbd0XIgk8Zu5OQSjp-_r-PPYI_dP1SCI6xnLZGXq3Qw",
+      "nonceStr": "v12kp1428mj",
+      "timestamp": "1568794974",
+      "url": "http://9kw5dm.natappfree.cc/index.html/",
+      "signature": "d656f69abb2d04afe02488ffcd0b7103c402b03e",
+      "accessToken": "25_5b6IGPdjBAED2JfQil5KCCOOmwcs0wmZc-igSUonrXCvgoYRZhzbh_W1pecV80y6XJTX0OVwVL606YolaUWeKISMcFl9vCz0beuiVN4ZM07m95AbHsXOFxHKFeKCagAF8mRMTiPKYf-Fg25IQGQgADAHXH",
+      "signatureName": "http://9kw5dm.natappfree.cc/index.html/",
+      "createDate": "2019-09-18T08:22:54.716Z",
+      "modifyDate": "2019-09-18T08:22:54.716Z",
+      "updated": true
+    }
+  },
+  "oauth": {},
+  "card": {},
+  "mp": {}
+}

@@ -1,0 +1,9 @@
+{
+	"wechat" : {
+		"appID": "wx62aba559696345af",
+		"appSecret": "a93c3dd28ce34fb96228830141e51549",
+		"token": "lihenian",
+		"prefix": "https://api.weixin.qq.com/cgi-bin/",
+		"mpPrefix": "https://mp.weixin.qq.com/cgi-bin/"
+	}
+}
