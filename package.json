@@ -16,6 +16,6 @@
   "devDependencies": {
     "sha1": "^1.1.1",
     "wechat": "^2.1.0",
-    "wechat-jssdk": "^5.0.2"
+    "wechat-jssdk": "^5.0.8"
   }
 }
